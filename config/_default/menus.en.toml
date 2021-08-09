@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Publications"
+  identifier = "publications"
+  weight = 300
+  url = "/publications/"
+
+  [[main]]
+  name = "News"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/"
+
+  [[main]]
+  name = "Code"
+  weight = 400
+  identifier = "code"
+  url = "/code/"
+
+  [[main]]
+  name = "Teaching"
+  weight = 500
+  identifier = "teaching"
+  url = "/teaching/"

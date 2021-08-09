@@ -1,0 +1,12 @@
+[en]
+title = "Aurélie Boisbunon"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/en"
+
+[fr]
+title = "Aurélie Boisbunon"
+description = "Senior Data Scientist et Chercheuse en Machine Learning"
+contentDir = "content/fr" 
+weight = 2
+LanguageName = "FR"
