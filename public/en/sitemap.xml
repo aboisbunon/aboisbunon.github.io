@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aboisbunon.github.io/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -12,6 +13,201 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aboisbunon.github.io/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/pagerank/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/pagerank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/pagerank/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/pca/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/pca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/pca/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/publication/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/publication/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/post/lion-prpca/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/post/lion-prpca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/post/lion-prpca/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/semi-supervised-learning/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/semi-supervised-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/semi-supervised-learning/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/</loc>
+    <lastmod>2021-07-02T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/genetic-algorithms/</loc>
+    <lastmod>2021-05-12T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/genetic-algorithms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/genetic-algorithms/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/post/eusipco-pazoe/</loc>
+    <lastmod>2021-05-12T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/post/eusipco-pazoe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/post/eusipco-pazoe/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/symbolic-regression/</loc>
+    <lastmod>2021-05-12T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/symbolic-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/symbolic-regression/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/time-series/</loc>
+    <lastmod>2021-05-12T10:51:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/time-series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/time-series/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/optimal-transport/</loc>
+    <lastmod>2021-04-20T14:36:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/optimal-transport/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/optimal-transport/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/post/pot-jmlr/</loc>
+    <lastmod>2021-04-20T14:36:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/post/pot-jmlr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/post/pot-jmlr/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/tags/python/</loc>
+    <lastmod>2021-04-20T14:36:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/tags/python/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/post/gecco2021/</loc>
+    <lastmod>2021-04-01T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/post/gecco2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/post/gecco2021/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/post/"
                 />
   </url><url>
     <loc>https://aboisbunon.github.io/categories/</loc>
@@ -26,16 +222,40 @@
                 href="https://aboisbunon.github.io/categories/"
                 />
   </url><url>
-    <loc>https://aboisbunon.github.io/tags/</loc>
+    <loc>https://aboisbunon.github.io/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://aboisbunon.github.io/fr/tags/"
+                href="https://aboisbunon.github.io/fr/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aboisbunon.github.io/tags/"
+                href="https://aboisbunon.github.io/publications/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/code/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/code/"
+                />
+  </url><url>
+    <loc>https://aboisbunon.github.io/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aboisbunon.github.io/fr/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aboisbunon.github.io/teaching/"
                 />
   </url>
 </urlset>

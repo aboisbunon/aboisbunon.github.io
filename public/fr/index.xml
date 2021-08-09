@@ -1,10 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aurélie Boisbunon</title>
+    <title>A propos on Aurélie Boisbunon</title>
     <link>https://aboisbunon.github.io/fr/</link>
-    <description>Recent content on Aurélie Boisbunon</description>
+    <description>Recent content in A propos on Aurélie Boisbunon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://aboisbunon.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Jul 2021 10:51:55 +0200</lastBuildDate><atom:link href="https://aboisbunon.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approche semi-supervisée présentée à LION15</title>
+      <link>https://aboisbunon.github.io/fr/post/lion-prpca/</link>
+      <pubDate>Fri, 02 Jul 2021 10:51:55 +0200</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/post/lion-prpca/</guid>
+      
+        <description>Mikhail Kamalov a présenté &amp;ldquo;Graph diffusion &amp;amp; PCA framework for semi-supervised learning&amp;rdquo; la semaine dernière à la conférence</description>
+      
+    </item>
+    
+    <item>
+      <title>Article accepté à EUSIPCO</title>
+      <link>https://aboisbunon.github.io/fr/post/eusipco-pazoe/</link>
+      <pubDate>Wed, 12 May 2021 10:51:47 +0200</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/post/eusipco-pazoe/</guid>
+      
+        <description>Notre article &amp;ldquo;PaZoe: classifying time series with few labels&amp;rdquo; a été accepté à EUSIPCO!</description>
+      
+    </item>
+    
+    <item>
+      <title>POT JMLR</title>
+      <link>https://aboisbunon.github.io/fr/post/pot-jmlr/</link>
+      <pubDate>Tue, 20 Apr 2021 14:36:08 +0200</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/post/pot-jmlr/</guid>
+      
+        <description>Notre papier &amp;ldquo;POT: Python Optimal Transport&amp;rdquo; a été accepté au Journal of Machine Learning Research (JMLR).</description>
+      
+    </item>
+    
+    <item>
+      <title>Article accepté à GECCO</title>
+      <link>https://aboisbunon.github.io/fr/post/gecco2021/</link>
+      <pubDate>Thu, 01 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/post/gecco2021/</guid>
+      
+        <description>Notre papier &amp;ldquo;Zoetrope Genetic programming&amp;rdquo; vient d&amp;rsquo;être accepté à la conférence Genetic and Evolutionary Computation Conference (GECCO).</description>
+      
+    </item>
+    
+    <item>
+      <title>Codes</title>
+      <link>https://aboisbunon.github.io/fr/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/code/</guid>
+      
+        <description>Vous trouverez ici quelques programmes Matlab et Python.
+Python Optimal Transport (POT) J&amp;rsquo;ai contribué à cette superbe librairie Python library pour le transport optimal, essentiellement développée par Rémi Flamary, Nicolas Courty et Alexandre Gramfort.</description>
+      
+    </item>
+    
+    <item>
+      <title>Enseignements</title>
+      <link>https://aboisbunon.github.io/fr/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/teaching/</guid>
+      
+        <description>2019-2020  R pour les données en grandes dimensions (M1) Master Data Sciences.</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://aboisbunon.github.io/fr/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/publications/</guid>
+      
+        <description>Vous trouverez ici mes articles, rapports et supports de présentation (&#39;-FR&#39; pour les documents en français), ou vous pouvez aller sur ma page Scholar.</description>
+      
+    </item>
+    
   </channel>
 </rss>
