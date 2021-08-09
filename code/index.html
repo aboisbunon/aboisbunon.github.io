@@ -2,7 +2,7 @@
 <title>
 Aurélie Boisbunon
 |
-Tags
+Software
 </title>
 <meta charset=utf-8><meta name=generator content="Hugo 0.87.0"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name=description content="
@@ -17,14 +17,22 @@ Tags
 <link rel=apple-touch-icon sizes=180x180 href=/favicons/apple-touch-icon.png>
 <link rel=icon type=image/png sizes=32x32 href=/favicons/favicon-32x32.png>
 <link rel=icon type=image/png sizes=16x16 href=/favicons/favicon-16x16.png>
-<link rel=canonical href=/tags/>
-<link rel=alternate type=application/rss+xml href=/tags/index.xml title="Aurélie Boisbunon">
+<link rel=canonical href=/code/>
 <script type=text/javascript src=/js/anatole-header.min.2a2cd9614b7d007dfbb75e8da19e3a0fa872ceab53c6d000c00b7a0c89b85bfc.js integrity="sha256-KizZYUt9AH37t16NoZ46D6hyzqtTxtAAwAt6DIm4W/w=" crossorigin=anonymous></script>
 <script type=text/javascript src=/js/anatole-theme-switcher.min.7fd87181cdd7e8413aa64b6867bb32f3a8dc242e684fc7d5bbb9f600dbc2b6eb.js integrity="sha256-f9hxgc3X6EE6pktoZ7sy86jcJC5oT8fVu7n2ANvCtus=" crossorigin=anonymous></script>
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://aboisbunon.github.io/images/site-feature-image.png">
-<meta name=twitter:title content="Tags">
-<meta name=twitter:description content="Senior Data Scientist and Machine Learning Researcher">
+<meta name=twitter:title content="Software">
+<meta name=twitter:description content="You can find here a few Matlab and Python programs.">
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","articleSection":"","name":"Software","headline":"Software","alternativeHeadline":"","description":"
+      
+        You can find here a few Matlab and Python programs.
+
+
+      
+
+
+    ","inLanguage":"en","isFamilyFriendly":"true","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/aboisbunon.github.io\/code\/"},"author":{"@type":"Person","name":"Aurélie Boisbunon"},"creator":{"@type":"Person","name":"Aurélie Boisbunon"},"accountablePerson":{"@type":"Person","name":"Aurélie Boisbunon"},"copyrightHolder":{"@type":"Person","name":"Aurélie Boisbunon"},"copyrightYear":"0001","dateCreated":"0001-01-01T00:00:00.00Z","datePublished":"0001-01-01T00:00:00.00Z","dateModified":"0001-01-01T00:00:00.00Z","publisher":{"@type":"Organization","name":"Aurélie Boisbunon","url":"https://aboisbunon.github.io/","logo":{"@type":"ImageObject","url":"https:\/\/aboisbunon.github.io\/favicons\/favicon-32x32.png","width":"32","height":"32"}},"image":["https://aboisbunon.github.io/images/site-feature-image.png"],"url":"https:\/\/aboisbunon.github.io\/code\/","wordCount":"231","genre":[],"keywords":[]}</script>
 </head>
 <body>
 <header><div class="page-top
@@ -47,7 +55,7 @@ animated fadeInDown">
 <a href=/publications/ title>Publications</a>
 </li>
 <li>
-<a href=/code/ title>Code</a>
+<a class=current href=/code/ title>Code</a>
 </li>
 <li>
 <a href=/teaching/ title>Teaching</a>
@@ -119,119 +127,33 @@ animated fadeInDown">
 <main>
 <div class=autopagerize_page_element>
 <div class=content>
-<div class="archive
+<div class="post
 animated fadeInDown">
-<ul class=list-with-title>
-<div class=listing-title>2021</div>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/semi-supervised-learning/ title=semi-supervised-learning>semi-supervised-learning</a>
-<div class=post-time>
-<span class=date>
-2/7/2021
-</span>
+<div class=post-content>
+<div class=post-title>
+<h1>Software</h1>
+</div><p>You can find here a few <a href=http://www.mathworks.fr/products/matlab/>Matlab</a> and <a href=https://www.python.org/>Python</a> programs.</p>
+<h3 id=python-optimal-transport-pot>Python Optimal Transport (POT)</h3>
+<p>I contributed to this awesome Python library for optimal transport mostly developped by <a href=http://remi.flamary.com/>Rémi Flamary</a>, <a href=https://people.irisa.fr/Nicolas.Courty/>Nicolas Courty</a> and <a href=http://alexandre.gramfort.net/>Alexandre Gramfort</a>. I wrote a Medium article with a simple introductory example to optimal transport, you can check it <a href=https://towardsdatascience.com/hands-on-guide-to-python-optimal-transport-toolbox-part-1-922a2e82e621>here</a>.</p>
+<p><a href=https://github.com/PythonOT/POT>[Git Repository]</a></p>
+<h3 id=model-selection-toolbox-mst>Model Selection Toolbox (MST)</h3>
+<p>A Matlab toolbox I developped during my PhD, including many methods from the literature, both for building collections of models (Lasso, Adalasso, Elastic net, MCP, &mldr;), and for selecting the best model from the collection (estimators of loss, AIC, AIC3, AICc, Cp, BIC, CV, SRM, slope heuristics, &mldr;).</p>
+<p><a href=https://github.com/aboisbunon/mst>[Git Repository]</a></p>
+<h3 id=regularization-path-algorithms-for-lars-and-mcp>Regularization path algorithms for LARS and MCP</h3>
+<p>The Minimax Concave Penalty (MCP) is a method developed by Zhang that keeps Lasso&rsquo;s selection while reducing its bias in estimation. Although it corresponds to a nonconvex and non differentiable optimization problem, the use of Clarke differentials allows to compute the optimality conditions and we were thus able to provide a regularization path algorithm similar to that of Lasso.</p>
+<p><a href=http://aurelie.boisbunon.free.fr/downloads/monMCP.m>[Matlab MCP]</a>
+<a href=http://aurelie.boisbunon.free.fr/downloads/monLAR.m>[Matlab Lasso]</a>
+<a href=http://aurelie.boisbunon.free.fr/downloads/ex_reg_path_MCP.m>[Example]</a></p>
+<h3 id=spherically-symmetric-random-generation>Spherically symmetric random generation</h3>
+<p>Spherically symmetric distributions are a generalization of the multivariate spherical Gaussian distribution where the assumption of independence is relaxed. The following pdf file gives an overview of the properties of the spherical family as well as the algorithms used to generate spherical random vectors.</p>
+<p><a href=http://aurelie.boisbunon.free.fr/downloads/randSS.m>[Matlab code]</a>
+<a href=http://aurelie.boisbunon.free.fr/downloads/ex_random_gener.m>[Example]</a>
+<a href=http://aurelie.boisbunon.free.fr/downloads/loisSS.pdf>[PDF]</a></p>
+</div>
+<div class=post-footer>
+<div class=info>
 </div>
 </div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/publication/ title=publication>publication</a>
-<div class=post-time>
-<span class=date>
-2/7/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/pca/ title=pca>pca</a>
-<div class=post-time>
-<span class=date>
-2/7/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/pagerank/ title=pagerank>pagerank</a>
-<div class=post-time>
-<span class=date>
-2/7/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/time-series/ title=time-series>time-series</a>
-<div class=post-time>
-<span class=date>
-12/5/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/symbolic-regression/ title=symbolic-regression>symbolic-regression</a>
-<div class=post-time>
-<span class=date>
-12/5/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/genetic-algorithms/ title=genetic-algorithms>genetic-algorithms</a>
-<div class=post-time>
-<span class=date>
-12/5/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/python/ title=python>python</a>
-<div class=post-time>
-<span class=date>
-20/4/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-<ul class=listing>
-<div class=listing-item>
-<div class=listing-post>
-<a href=/tags/optimal-transport/ title=optimal-transport>optimal-transport</a>
-<div class=post-time>
-<span class=date>
-20/4/2021
-</span>
-</div>
-</div>
-</div>
-</ul>
-</ul>
 </div>
 </div>
 </div>
