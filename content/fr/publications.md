@@ -11,20 +11,20 @@ Vous trouverez ici mes articles, rapports et supports de présentation ('-FR' po
 * Flamary, Courty, Gramfort, Alaya, Boisbunon, Chambon, Chapel, Corenflos, Fatras, Fournier, Gautheron, Gayraud, Janati, Rakotomamonjy, Redko, Rolet, Schutz, Seguy, Sutherland, Tavenard, Tong, Vayer. <br />
 **POT: Python Optimal Transport**, *Journal of Machine Learning Research* (2021) 22(78):1−8. \
 [[PDF]](https://jmlr.csail.mit.edu/papers/v22/20-451.html)
-[[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:rIdNnjMUZTEJ:scholar.google.com/&output=citation&scisdr=CgXTBRi1EIiZ4z6SgJk:AAGBfm0AAAAAYPqXmJlDYoREdcAR6dR8kBAbnmA9IfJQ&scisig=AAGBfm0AAAAAYPqXmEiJ3-CeS3U7a8aH1CidYgWtpKM9&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1)
+<!-- [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:rIdNnjMUZTEJ:scholar.google.com/&output=citation&scisdr=CgXTBRi1EIiZ4z6SgJk:AAGBfm0AAAAAYPqXmJlDYoREdcAR6dR8kBAbnmA9IfJQ&scisig=AAGBfm0AAAAAYPqXmEiJ3-CeS3U7a8aH1CidYgWtpKM9&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1) -->
 [[Code]](https://pythonot.github.io/)
 [[Example]](https://towardsdatascience.com/hands-on-guide-to-python-optimal-transport-toolbox-part-1-922a2e82e621)
 
 * Boisbunon, Maruyama. **Inadmissibility of the best equivariant predictive density in the unknown variance case**,
 *Biometrika* (2014) 101 (3): 733-740.\
 [[PDF]](http://arxiv.org/pdf/1308.2765.pdf)
-[[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:zfjQTgR5L8sJ:scholar.google.com/&output=citation&scisdr=CgXTBRi1EIiZ4z6dDS8:AAGBfm0AAAAAYPqYFS9beYWtUQ-6zpo62KjeBrZ9YXqM&scisig=AAGBfm0AAAAAYPqYFSckXqMvkIFzCsBplzw3cstPIWFJ&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1)
+<!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:zfjQTgR5L8sJ:scholar.google.com/&output=citation&scisdr=CgXTBRi1EIiZ4z6dDS8:AAGBfm0AAAAAYPqYFS9beYWtUQ-6zpo62KjeBrZ9YXqM&scisig=AAGBfm0AAAAAYPqYFSckXqMvkIFzCsBplzw3cstPIWFJ&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1) -->
 
 * Boisbunon, Canu, Fourdrinier, Strawderman, Wells. 
 **Akaike's Information Criterion, Cp and estimators of loss for elliptically symmetric distributions**,
 *International Statistical Review* (2014) 82 (3): 422-439.\
 [[PDF]](http://arxiv.org/pdf/1308.2766.pdf)
-[[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:itYlAWazpwgJ:scholar.google.com/&output=citation&scisdr=CgXTBRi1EIiZ4z6SPFY:AAGBfm0AAAAAYPqXJFabAwL0aFNAgLzo71Jymjf5QN-Y&scisig=AAGBfm0AAAAAYPqXJD3oE5nLHtYQh7lti3YCjQfooQd-&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1)
+<!-- [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:itYlAWazpwgJ:scholar.google.com/&output=citation&scisdr=CgXTBRi1EIiZ4z6SPFY:AAGBfm0AAAAAYPqXJFabAwL0aFNAgLzo71Jymjf5QN-Y&scisig=AAGBfm0AAAAAYPqXJD3oE5nLHtYQh7lti3YCjQfooQd-&scisf=4&ct=citation&cd=-1&hl=fr&scfhb=1) -->
 
 
 # Conférences
@@ -124,7 +124,7 @@ year = {2014}
 **Criteria for variable selection with dependence**,
 *Workshop on New Frontiers in Model Order Selection, NeurIPS* 2011. 
 [[Article]](http://hal.archives-ouvertes.fr/hal-00626307/en/)
-[[Poster]](http://aurelie.boisbunon.free.fr/downloads/posterNIPS2011.pdf)
+<!-- [[Poster]](http://aurelie.boisbunon.free.fr/downloads/posterNIPS2011.pdf) -->
 [[Video]](http://videolectures.net/aurelie_boisbunon/)
 <!-- <p class="infolinks">
 <a href="javascript:toggleInfo('nips2011','bibtex')">[BibTeX]</a> 
@@ -144,8 +144,8 @@ year = {2014}
 * Boisbunon, Canu, Fourdrinier. 
 **Critères robustes de sélection de variables pour le modèle linéaire via l’estimation de coût**,
 *18èmes Rencontres de la Société Francophone de Classification*, Septembre 2011.
-[[Article-FR]](http://aurelie.boisbunon.free.fr/downloads/BoisbunonCanuFourdrinier.pdf)
-[[Presentation-FR]](http://aurelie.boisbunon.free.fr/downloads/ABoisbunon_SFC11.pdf)
+<!-- [[Article-FR]](http://aurelie.boisbunon.free.fr/downloads/BoisbunonCanuFourdrinier.pdf) -->
+[[Presentation-FR]](https://www.researchgate.net/profile/Dominique-Fourdrinier/publication/267978682_Criteres_robustes_de_selection_de_variables_pour_le_modele_lineaire_via_l%27estimation_de_cout/links/554347c70cf23ff7168387e6/Criteres-robustes-de-selection-de-variables-pour-le-modele-lineaire-via-lestimation-de-cout.pdf)
 <!-- <p class="infolinks">
 <a href="javascript:toggleInfo('sfc2011','bibtex')">[BibTeX]</a> 
 <tr class="bibtex noshow" id="bib_sfc2011"> 
@@ -170,7 +170,7 @@ Acadia University, Wolfville, N.-É., Canada, 12-15 juin 2011.
 * Boisbunon, Canu, Fourdrinier. 
 **A global procedure for variable selection**,
 Février 2012.
-[[PDF]](http://aurelie.boisbunon.free.fr/downloads/BCF_icml2012_report.pdf)
+[[PDF]](https://d1wqtxts1xzle7.cloudfront.net/30818087/BCF_icml2012_report.pdf?1362361979=&response-content-disposition=inline%3B+filename%3DA_global_procedure_for_variable_selectio.pdf&Expires=1629985334&Signature=F--i~R2~oPZ-ji~JI5XWEb3~B17t~oPHWNP3u~SVzzYuzOhtIzb-PRB4upUUbU10gYXmGOiAp0R~PZAb7pmCryPhJP5725hT39t0uu~uf8XN~hsOCduvAUE1ZMhg6xrjm9nDHDgbgrlmJNVzlF7MalAw1-O1dtiwBSKmkHGBWxzIDiRGiwfTrcDgs9VRpfDUBNSqigUupkdLixsjfZfeapG9kgTIAndH0l-B6GEw0bIUqHsUzYeqplPyC7orspYwFInWEMM0eI40r1Tgege1N36o9cGyxLg1DL8htUo3XKpEQinMZB4ghFpquvMoo5lZBXRboqgVJj00mzzNOLIXWA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 <!-- <a href="javascript:toggleInfo('icml2012','bibtex')">[BibTeX]</a> 
 <tr class="bibtex noshow" id="bib_icml2012"> 
 <td><b>BibTeX</b>:
@@ -184,7 +184,7 @@ Février 2012.
 * Boisbunon, Canu, Fourdrinier. 
 **A trade-off between Gaussian and worst case analysis for model selection**,
 Février 2012.
-[[PDF]](http://aurelie.boisbunon.free.fr/downloads/BCF_colt2012_report.pdf)
+[[PDF]](https://d1wqtxts1xzle7.cloudfront.net/30818078/BCF_colt2012_report.pdf?1362361977=&response-content-disposition=inline%3B+filename%3DA_trade_off_between_Gaussian_and_worst_c.pdf&Expires=1629985293&Signature=T3EpjbEjOgRMe-71i2oXPdPOFbV1QFLJsk8VyVxE0zf7jFD5RsDTUhZ6e~Eap8g7Fvw0QfrUmSW1-~DKPN~SS-pXt5kXaPSQPb68yHKr0Ms04QfSrBpwNbcVUuPJzpn4-zO7ajsSC5rR5o14Q8EBgCK3Y9XlH382lSyn4RORGqTc4D4FEX~rWbp7yK0ALSnpBsGc9yJdE~Sx1TD4PwfD6ZDFAECAm6nJ72hW-6MGaht3WmsqE0nFomuMt12IkunG410uGvMHfN2UnxoCA4L2IL3fG-mKq~yKzeX7DolvX82L3Q7AdGn-AqIrK2P-ONDjmlk2HQOKseEnImKNs6ZpaQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 <!-- <a href="javascript:toggleInfo('colt2012','bibtex')">[BibTeX]</a> 
 <tr class="bibtex noshow" id="bib_colt2012"> 
 <td><b>BibTeX</b>:
@@ -197,8 +197,8 @@ Février 2012.
 -->
 * Boisbunon, Canu, Fourdrinier. 
 Rapport pour la soutenance à mi-parcours du projet ANR [ClasSel](http://www.hds.utc.fr/classel/doku.php),
-Septembre 2010.
-[[Rapport-FR]](http://aurelie.boisbunon.free.fr/downloads/rapport_ANR_miparcours_2010.pdf)
+Septembre 2010. 
+<!-- [[Rapport-FR]](http://aurelie.boisbunon.free.fr/downloads/rapport_ANR_miparcours_2010.pdf) -->
 
 # Présentations et autres
 
@@ -211,13 +211,13 @@ Septembre 2010.
 * Présentations at the [ClasSel Workshop](https://sites.google.com/site/workshopclassel/), Février 2012.
 * Séminaire à Cornell University ([Department de Statistiques](http://www.stat.cornell.edu/)), 
 Mars 2011. 
-[[Slides]](http://aurelie.boisbunon.free.fr/downloads/Cornell_stud_seminar.pdf)
+<!-- [[Slides]](http://aurelie.boisbunon.free.fr/downloads/Cornell_stud_seminar.pdf) -->
 * Seminar au laboratoire [Heudiasyc](http://www.hds.utc.fr/) (UTC), Janvier 2011.
-[[Slides-FR]](http://aurelie.boisbunon.free.fr/downloads/Seminaire_Compiegne_janv2011.pdf)
+<!-- [[Slides-FR]](http://aurelie.boisbunon.free.fr/downloads/Seminaire_Compiegne_janv2011.pdf) -->
 
 # Thèse
 
 * **Sélection de modèle : une approche décisionnelle**,
 Janvier 2013.
-[[PDF]](http://aurelie.boisbunon.free.fr/downloads/these.pdf)
-[[Slides]](http://aurelie.boisbunon.free.fr/downloads/soutenance.pdf)
+[[PDF]](https://tel.archives-ouvertes.fr/tel-00793898/document)
+<!-- [[Slides]](http://aurelie.boisbunon.free.fr/downloads/soutenance.pdf) -->
