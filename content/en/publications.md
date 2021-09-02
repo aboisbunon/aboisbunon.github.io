@@ -30,12 +30,12 @@ You can find here the articles, reports and presentation supports I have done so
 * Avrachenkov, Boisbunon, Kamalov. 
 **Graph diffusion & PCA framework for semi-supervised learning**,
 *15th Learning and Intelligent OptimizatioN conference (LION15)*, June 20-25 2021. \
-[[PDF]](documents/GDPCA_LION2021.pdf)
+[[PDF]](../documents/GDPCA_LION2021.pdf)
 
 * Kamalov, Boisbunon, Fanara, Grenet, Daeden. 
 **PaZoe: classifying time series with few labels**,
 *European Signal Processing Conference (EUSIPCO)*, August 23-27 2021. \
-[[Pre-print]](documents/PaZoe_EUSIPCO2021_preprint.pdf)
+[[Pre-print]](../documents/PaZoe_EUSIPCO2021_preprint.pdf)
 
 * Boisbunon, Fanara, Grenet, Daeden, Vighi, Schoenauer. 
 **Zoetrope Genetic Programming for Regression**,

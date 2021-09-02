@@ -29,12 +29,12 @@ Vous trouverez ici mes articles, rapports et supports de présentation ('-FR' po
 * Avrachenkov, Boisbunon, Kamalov. 
 **Graph diffusion & PCA framework for semi-supervised learning**,
 *15th Learning and Intelligent OptimizatioN conference (LION15)*, 20-25 juin 2021. \
-[[PDF]](documents/GDPCA_LION2021.pdf)
+[[PDF]](../documents/GDPCA_LION2021.pdf)
 
 * Kamalov, Boisbunon, Fanara, Grenet, Daeden. 
 **PaZoe: classifying time series with few labels**,
 *European Signal Processing Conference (EUSIPCO)*, 23-27 août 2021. \
-[[Pre-print]](documents/PaZoe_EUSIPCO2021_preprint.pdf) 
+[[Pre-print]](../documents/PaZoe_EUSIPCO2021_preprint.pdf) 
 
 * Boisbunon, Fanara, Grenet, Daeden, Vighi, Schoenauer. 
 **Zoetrope Genetic Programming for Regression**,
