@@ -29,15 +29,17 @@ You can find here the articles, reports and presentation supports I have done so
 
 * Avrachenkov, Boisbunon, Kamalov. 
 **Graph diffusion & PCA framework for semi-supervised learning**,
-*15th Learning and Intelligent OptimizatioN conference (LION15)*, June 20-25, 2021. 
+*15th Learning and Intelligent OptimizatioN conference (LION15)*, June 20-25 2021. \
+[[PDF]](documents/GDPCA_LION2021.pdf)
 
 * Kamalov, Boisbunon, Fanara, Grenet, Daeden. 
 **PaZoe: classifying time series with few labels**,
-*European Signal Processing Conference (EUSIPCO)*, 2021, accepted. 
+*European Signal Processing Conference (EUSIPCO)*, August 23-27 2021. \
+[[Pre-print]](documents/PaZoe_EUSIPCO2021_preprint.pdf)
 
 * Boisbunon, Fanara, Grenet, Daeden, Vighi, Schoenauer. 
 **Zoetrope Genetic Programming for Regression**,
-*Genetic and Evolutionary Computation Conference (GECCO)*, 10-14 July 2021. \
+*Genetic and Evolutionary Computation Conference (GECCO)*, July 10-14  2021. \
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3449639.3459349)
 [[Video]](https://www.youtube.com/watch?v=L7XbUn8SRUY)
 [[Code]](https://gitlab.devenv.mydatamodels.com/publications/bench-zgp-symbolic-regression)
