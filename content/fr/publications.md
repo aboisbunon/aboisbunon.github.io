@@ -26,11 +26,6 @@ Vous trouverez ici mes articles, rapports et supports de présentation ('-FR' po
 
 # Conférences
 
-* Avrachenkov, Boisbunon, Kamalov. 
-**Graph diffusion & PCA framework for semi-supervised learning**,
-*15th Learning and Intelligent OptimizatioN conference (LION15)*, 20-25 juin 2021. \
-[[PDF]](../../documents/GDPCA_LION2021.pdf)
-
 * Kamalov, Boisbunon, Fanara, Grenet, Daeden. 
 **PaZoe: classifying time series with few labels**,
 *European Signal Processing Conference (EUSIPCO)*, 23-27 août 2021. \
@@ -43,6 +38,11 @@ Vous trouverez ici mes articles, rapports et supports de présentation ('-FR' po
 [[Video]](https://www.youtube.com/watch?v=L7XbUn8SRUY)
 [[Code]](https://gitlab.devenv.mydatamodels.com/publications/bench-zgp-symbolic-regression)
 [[Résultats]](https://towardsdatascience.com/what-if-we-didnt-have-to-compromise-between-interpretability-and-performance-da00d4e30a44)
+
+* Avrachenkov, Boisbunon, Kamalov. 
+**Graph diffusion & PCA framework for semi-supervised learning**,
+*15th Learning and Intelligent OptimizatioN conference (LION15)*, 20-25 juin 2021. \
+[[PDF]](../../documents/GDPCA_LION2021.pdf)
 
 * Boisbunon, Flamary, Rakotomamonjy, Giros, Zerubia. 
 **Large scale sparse optimization for object detection in high resolution images**,
