@@ -6,7 +6,7 @@ contentDir = "content/en"
 
 [fr]
 title = "Aurélie Boisbunon"
-description = "Senior Data Scientist et Chercheuse en Machine Learning"
+description = "Chercheuse en Machine Learning"
 contentDir = "content/fr" 
 weight = 2
 LanguageName = "FR"
