@@ -128,8 +128,8 @@ year = {2014}
 * Boisbunon, Canu, Fourdrinier. 
 **Criteria for variable selection with dependence**,
 *Workshop on New Frontiers in Model Order Selection, NeurIPS* 2011. 
-[[Article]](http://hal.archives-ouvertes.fr/hal-00626307/en/)
-[[Poster]](http://aurelie.boisbunon.free.fr/downloads/posterNIPS2011.pdf)
+[[Article]](https://hal.archives-ouvertes.fr/hal-00626307/en/)
+[[Poster]](https://aboisbunon.github.io/resources/posterNIPS2011.pdf)
 [[Video]](http://videolectures.net/aurelie_boisbunon/)
 <!-- <p class="infolinks">
 <a href="javascript:toggleInfo('nips2011','bibtex')">[BibTeX]</a> 
@@ -149,8 +149,8 @@ year = {2014}
 * Boisbunon, Canu, Fourdrinier. 
 **Critères robustes de sélection de variables pour le modèle linéaire via l’estimation de coût**,
 *18èmes Rencontres de la Société Francophone de Classification*, September 2011.
-[[Article-FR]](http://aurelie.boisbunon.free.fr/downloads/BoisbunonCanuFourdrinier.pdf)
-[[Presentation-FR]](http://aurelie.boisbunon.free.fr/downloads/ABoisbunon_SFC11.pdf)
+[[Article-FR]](https://aboisbunon.github.io/resources/BoisbunonCanuFourdrinier.pdf)
+[[Presentation-FR]](https://aboisbunon.github.io/resources/ABoisbunon_SFC11.pdf)
 <!-- <p class="infolinks">
 <a href="javascript:toggleInfo('sfc2011','bibtex')">[BibTeX]</a> 
 <tr class="bibtex noshow" id="bib_sfc2011"> 
@@ -175,7 +175,7 @@ Acadia University, Wolfville, N.-É., Canada, 12-15 june 2011.
 * Boisbunon, Canu, Fourdrinier. 
 **A global procedure for variable selection**,
 February 2012.
-[[PDF]](http://aurelie.boisbunon.free.fr/downloads/BCF_icml2012_report.pdf)
+[[PDF]](https://aurelie.boisbunon.free.fr/downloads/BCF_icml2012_report.pdf)
 <!-- <a href="javascript:toggleInfo('icml2012','bibtex')">[BibTeX]</a> 
 <tr class="bibtex noshow" id="bib_icml2012"> 
 <td><b>BibTeX</b>:
