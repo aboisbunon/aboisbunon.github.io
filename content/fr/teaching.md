@@ -4,6 +4,14 @@ draft = false
 slug = "teaching"
 +++ 
 
+### 2022
+
+* **Practical applications of the L1 penalty** (cours doctoral) 
+Ecole de printemps [Statlearn](https://statlearn.sciencesconf.org/) 2022. 
+*Société française de Statistiques*. 
+\
+[PDF](../documents/Statlearn2022_BoisbunonLasso.pdf)
+
 ### 2019-2020
 
 * **R pour les données en grandes dimensions** (M1) 

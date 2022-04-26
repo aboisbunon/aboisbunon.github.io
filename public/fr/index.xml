@@ -6,7 +6,18 @@
     <description>Recent content in A propos on Aurélie Boisbunon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 10:51:55 +0200</lastBuildDate><atom:link href="https://aboisbunon.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 20:08:55 +0200</lastBuildDate><atom:link href="https://aboisbunon.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cours à Statlearn 2022</title>
+      <link>https://aboisbunon.github.io/fr/post/statlearn2022/</link>
+      <pubDate>Wed, 23 Mar 2022 20:08:55 +0200</pubDate>
+      
+      <guid>https://aboisbunon.github.io/fr/post/statlearn2022/</guid>
+      
+        <description>J&amp;rsquo;aurai le plaisir de donner un cours sur la pénalité L1 à l&amp;rsquo;école de printemps StatLearn 2022, qui aura lieu du 4 au 8 avril à Cargèse, en Corse.</description>
+      
+    </item>
+    
     <item>
       <title>Approche semi-supervisée présentée à LION15</title>
       <link>https://aboisbunon.github.io/fr/post/lion-prpca/</link>
@@ -70,7 +81,7 @@ Python Optimal Transport (POT) J&amp;rsquo;ai contribué à cette superbe librai
       
       <guid>https://aboisbunon.github.io/fr/teaching/</guid>
       
-        <description>2019-2020  R pour les données en grandes dimensions (M1) Master Data Sciences.</description>
+        <description>2022  Practical applications of the L1 penalty (cours doctoral) Ecole de printemps Statlearn 2022.</description>
       
     </item>
     
@@ -81,7 +92,7 @@ Python Optimal Transport (POT) J&amp;rsquo;ai contribué à cette superbe librai
       
       <guid>https://aboisbunon.github.io/fr/publications/</guid>
       
-        <description>Vous trouverez ici mes articles, rapports et supports de présentation (&#39;-FR&#39; pour les documents en français), ou vous pouvez aller sur ma page Scholar.</description>
+        <description>Vous trouverez ici mes articles, rapports et supports de présentation (&amp;rsquo;-FR&amp;rsquo; pour les documents en français), ou vous pouvez aller sur ma page Scholar.</description>
       
     </item>
     

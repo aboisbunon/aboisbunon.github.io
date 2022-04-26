@@ -4,6 +4,14 @@ draft = false
 slug = "teaching"
 +++ 
 
+### 2022
+
+* **Practical applications of the L1 penalty** (Doctoral course) 
+[Statlearn](https://statlearn.sciencesconf.org/) spring school 2022. 
+*French Society of Statistics*. 
+\
+[PDF](../documents/Statlearn2022_BoisbunonLasso.pdf)
+
 ### 2019-2020
 
 * **Processing large datasets in R** (M1) 
@@ -28,5 +36,5 @@ Department of Architecture of Information Systems.
 * **Random Forests** (bachelor 3) 
 Department of Mathematical Engineering. 
 *National Institute of Applied Sciences (INSA) of Rouen*.
-[PDF-FR](http://aurelie.boisbunon.free.fr/downloads/GM5Stat9_2008.pdf)
+<!--[PDF-FR](http://aurelie.boisbunon.free.fr/downloads/GM5Stat9_2008.pdf)-->
 
