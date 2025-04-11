@@ -43,9 +43,9 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/aurélie-boisbunon-370113177"
 
 [[socialIcons]]
-icon = "fab fa-twitter"
-title = "twitter"
-url = "https://twitter.com/aboisbunon"
+icon = "fab fa-bluesky"
+title = "bluesky"
+url = "https://bsky.app/profile/aboisbunon.bsky.social"
 
 [[socialIcons]]
 icon = "fab fa-github"
